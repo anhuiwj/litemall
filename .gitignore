@@ -1,3 +1,6 @@
-/.idea/
-/private/
-/storage/
+
+/target/
+.DS_Store
+/.classpath
+/.project
+/.settings/
